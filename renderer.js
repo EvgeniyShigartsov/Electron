@@ -6,6 +6,7 @@ const fn = async () => {
 
   information.innerText = ping
 
+  
   console.log(ping)
 }
 
